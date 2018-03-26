@@ -1,0 +1,6 @@
+framework module Pods_EgmService {
+  umbrella header "Pods-EgmService-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module DGParallaxViewControllerTransition {
+  umbrella header "DGParallaxViewControllerTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

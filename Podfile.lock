@@ -1,0 +1,33 @@
+PODS:
+  - AnimatedCollectionViewLayout (0.3.0)
+  - CSStickyHeaderFlowLayout (0.2.11)
+  - DGParallaxViewControllerTransition (1.0.0)
+  - EFQRCode (1.2.5)
+  - SnapKit (3.2.0)
+  - Socket.IO-Client-Swift (10.0.0)
+  - swiftScan (1.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - CSStickyHeaderFlowLayout
+  - DGParallaxViewControllerTransition
+  - EFQRCode (~> 1.2.5)
+  - SnapKit (~> 3.0)
+  - Socket.IO-Client-Swift (~> 10.0.0)
+  - swiftScan (~> 1.1.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 504b992a4258eb39d2dd2b2b48e84b4b95860fd7
+  CSStickyHeaderFlowLayout: e9bcb1762413f49d7d09e5bd0ae5efd1100116b7
+  DGParallaxViewControllerTransition: e20c91474168ec00dbe9d0ba48c0d145393ec074
+  EFQRCode: 96834a369f74d14b8be882cfe6f27f00cd4cad18
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  Socket.IO-Client-Swift: 9c5b4e5e76e30e1b9a1804c40e11dad0a002b1a4
+  swiftScan: 55d3abf1d679615d2263de0ca44bebba4b11c56e
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 5b3304839ba1d3620ded4243651867757f1653ec
+
+COCOAPODS: 1.1.1
